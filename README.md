@@ -1,5 +1,5 @@
 
-<img align="right" src="./star.gif" width="200" alt="Rotating ASCII star" />
+<img align="right" src="./star.gif" width="180" alt="Rotating ASCII star" />
 
 Hi I'm Wesal Ismail
 
