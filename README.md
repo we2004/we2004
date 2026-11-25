@@ -10,6 +10,8 @@ I'm currently exploring creative frontend development, interactive design and an
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/>
   &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TypeScript"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" />
 </p>
 
