@@ -13,4 +13,4 @@ I'm currently exploring creative frontend development, interactive design and an
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" height="40" alt="n8n" />
 </p>
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [X](YOUR_PORTFOLIO_URL)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/wesal-ismail-410372330/)) · [Portfolio]([YOUR_PORTFOLIO_URL](https://wesal-portfolio.vercel.app/)) · [X]([YOUR_PORTFOLIO_URL](https://x.com/w9esal))
