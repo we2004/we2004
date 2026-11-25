@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**we2004/we2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Wesal Ismail
 
-Here are some ideas to get you started:
+Software Engineering student & Frontend Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Exploring creative frontend development, interactive designs, animations, and 3D web experiences.
+- Expanding my knowledge of backend development with the goal of becoming a Full-Stack Developer.
+- Learning workflow automation to improve productivity and automate repetitive tasks.
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n" />
+</p>
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
