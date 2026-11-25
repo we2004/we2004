@@ -1,15 +1,10 @@
 
-# Hi, I'm Wesal Ismail
+Hi I'm Wesal Ismail
 
-Software Engineering student & Frontend Developer.
+Software Engineering student & Frontend Developer
 
-## About Me
+I'm currently exploring creative frontend development, interactive design, animations and 3D web experiences. I've also started my journey toward becoming a full-stack developer and I'm learning different ways and tools to automate workflows :)
 
-- Exploring creative frontend development, interactive designs, animations, and 3D web experiences.
-- Expanding my knowledge of backend development with the goal of becoming a Full-Stack Developer.
-- Learning workflow automation to improve productivity and automate repetitive tasks.
-
-## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,js,ts" />
