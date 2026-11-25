@@ -3,7 +3,7 @@
 
 Hi I'm Wesal Ismail
 
-I'm currently exploring creative frontend development, interactive design, animations and 3D web experiences. I've also started my journey toward becoming a full-stack developer and I'm learning different ways and tools to automate workflows :)
+I'm currently exploring creative frontend development, interactive design and animations. I've also started my journey toward becoming a full-stack developer and I'm learning different ways and tools to automate workflows :)
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="react"/>
